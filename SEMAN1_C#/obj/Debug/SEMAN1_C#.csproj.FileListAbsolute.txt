@@ -1,0 +1,7 @@
+C:\Users\UPN\Desktop\Proyecto\FA_8454\SEMAN1_C#\bin\Debug\SEMAN1_C#.exe.config
+C:\Users\UPN\Desktop\Proyecto\FA_8454\SEMAN1_C#\bin\Debug\SEMAN1_C#.exe
+C:\Users\UPN\Desktop\Proyecto\FA_8454\SEMAN1_C#\bin\Debug\SEMAN1_C#.pdb
+C:\Users\UPN\Desktop\Proyecto\FA_8454\SEMAN1_C#\obj\Debug\SEMAN1_C#.csproj.AssemblyReference.cache
+C:\Users\UPN\Desktop\Proyecto\FA_8454\SEMAN1_C#\obj\Debug\SEMAN1_C#.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Desktop\Proyecto\FA_8454\SEMAN1_C#\obj\Debug\SEMAN1_C#.exe
+C:\Users\UPN\Desktop\Proyecto\FA_8454\SEMAN1_C#\obj\Debug\SEMAN1_C#.pdb
